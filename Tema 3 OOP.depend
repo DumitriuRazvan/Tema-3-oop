@@ -1,0 +1,63 @@
+# depslib dependency file v1.0
+1589703488 source:c:\users\dumit\onedrive\desktop\tema 3 oop\main.cpp
+	<iostream>
+	<vector>
+	<algorithm>
+	<utility>
+	"CatalogIndividual.h"
+	"ExamenFinal.h"
+	"Partial.h"
+	"Quiz.h"
+	"Examen.h"
+
+1589703119 source:c:\users\dumit\onedrive\desktop\tema 3 oop\examen.cpp
+	"Examen.h"
+	"ExamenFinal.h"
+	"Partial.h"
+	<iostream>
+	<exception>
+
+1589703119 c:\users\dumit\onedrive\desktop\tema 3 oop\examen.h
+	<string>
+
+1589703230 c:\users\dumit\onedrive\desktop\tema 3 oop\examenfinal.h
+	"Examen.h"
+
+1589703230 c:\users\dumit\onedrive\desktop\tema 3 oop\partial.h
+	"Examen.h"
+
+1589703230 source:c:\users\dumit\onedrive\desktop\tema 3 oop\examenfinal.cpp
+	"ExamenFinal.h"
+
+1589703230 source:c:\users\dumit\onedrive\desktop\tema 3 oop\partial.cpp
+	"Partial.h"
+
+1589703330 source:c:\users\dumit\onedrive\desktop\tema 3 oop\quiz.cpp
+	"Quiz.h"
+	<cstring>
+	<exception>
+
+1589703330 c:\users\dumit\onedrive\desktop\tema 3 oop\quiz.h
+	<string>
+	<vector>
+	<iostream>
+
+1589703407 source:c:\users\dumit\onedrive\desktop\tema 3 oop\catalogindividual.cpp
+	"CatalogIndividual.h"
+
+1589703407 c:\users\dumit\onedrive\desktop\tema 3 oop\catalogindividual.h
+	<unordered_map>
+	<utility>
+	<vector>
+	<iostream>
+	"Elev.h"
+	"Partial.h"
+	"ExamenFinal.h"
+
+1589703463 c:\users\dumit\onedrive\desktop\tema 3 oop\elev.h
+	<string>
+	<iostream>
+
+1589703463 source:c:\users\dumit\onedrive\desktop\tema 3 oop\elev.cpp
+	"Elev.h"
+
